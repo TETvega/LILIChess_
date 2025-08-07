@@ -1,0 +1,1953 @@
+Jugador: b31b6Consultant | Partida: bullet | Estado: Éxito | Descargadas: 316
+Jugador: platinumcrown | Partida: bullet | Estado: Error | Límite de API alcanzado
+Jugador: BatmanBinSuperman | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: BatmanBinSuperman | Partida: blitz | Estado: Éxito | Descargadas: 237
+Jugador: BatmanBinSuperman | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BatmanBinSuperman | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: b31b6Consultant | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: b31b6Consultant | Partida: rapid | Estado: Éxito | Descargadas: 441
+Jugador: b31b6Consultant | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: bullet | Estado: Éxito | Descargadas: 1305
+Jugador: Odette_de_Crecy | Partida: bullet | Estado: Éxito | Descargadas: 347
+Jugador: Odette_de_Crecy | Partida: blitz | Estado: Éxito | Descargadas: 548
+Jugador: Odette_de_Crecy | Partida: rapid | Estado: Éxito | Descargadas: 1149
+Jugador: Odette_de_Crecy | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: CrazySage | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: flower9503 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: flower9503 | Partida: blitz | Estado: Éxito | Descargadas: 318
+Jugador: flower9503 | Partida: rapid | Estado: Éxito | Descargadas: 23
+Jugador: flower9503 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Christened | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Christened | Partida: blitz | Estado: Éxito | Descargadas: 258
+Jugador: Christened | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Christened | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: sapphire_phoenix | Partida: bullet | Estado: Éxito | Descargadas: 399
+Jugador: TryhardTrainingTiger | Partida: bullet | Estado: Éxito | Descargadas: 208
+Jugador: TryhardTrainingTiger | Partida: blitz | Estado: Éxito | Descargadas: 472
+Jugador: TryhardTrainingTiger | Partida: rapid | Estado: Éxito | Descargadas: 66
+Jugador: TryhardTrainingTiger | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Bllitzer11 | Partida: bullet | Estado: Éxito | Descargadas: 33
+Jugador: bosspotato | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Bllitzer11 | Partida: blitz | Estado: Éxito | Descargadas: 786
+Jugador: Bllitzer11 | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: Bllitzer11 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: bosspotato | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: woshigeshagua | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: woshigeshagua | Partida: blitz | Estado: Éxito | Descargadas: 299
+Jugador: woshigeshagua | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: woshigeshagua | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: FBINC | Partida: bullet | Estado: Éxito | Descargadas: 176
+Jugador: FBINC | Partida: blitz | Estado: Éxito | Descargadas: 754
+Jugador: FBINC | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: FBINC | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: bosspotato | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: bosspotato | Partida: classical | Estado: Éxito | Descargadas: 90
+Jugador: KrsnArjun | Partida: bullet | Estado: Éxito | Descargadas: 169
+Jugador: KrsnArjun | Partida: blitz | Estado: Éxito | Descargadas: 1209
+Jugador: KrsnArjun | Partida: rapid | Estado: Éxito | Descargadas: 74
+Jugador: KrsnArjun | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: CzechWarrior | Partida: bullet | Estado: Éxito | Descargadas: 5
+Jugador: ReluctantCannibal | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: CzechWarrior | Partida: blitz | Estado: Éxito | Descargadas: 113
+Jugador: CzechWarrior | Partida: rapid | Estado: Éxito | Descargadas: 270
+Jugador: CzechWarrior | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: Zombieblitz | Partida: bullet | Estado: Éxito | Descargadas: 27
+Jugador: ReluctantCannibal | Partida: blitz | Estado: Éxito | Descargadas: 1111
+Jugador: ReluctantCannibal | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ReluctantCannibal | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BocchoiBoi | Partida: bullet | Estado: Éxito | Descargadas: 197
+Jugador: Zombieblitz | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: BocchoiBoi | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: BocchoiBoi | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BocchoiBoi | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: DeutcheArtist3000 | Partida: bullet | Estado: Éxito | Descargadas: 409
+Jugador: DeutcheArtist3000 | Partida: blitz | Estado: Éxito | Descargadas: 253
+Jugador: DeutcheArtist3000 | Partida: rapid | Estado: Éxito | Descargadas: 3
+Jugador: DeutcheArtist3000 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Zombieblitz | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: Zombieblitz | Partida: classical | Estado: Éxito | Descargadas: 14
+Jugador: Hanskai | Partida: bullet | Estado: Éxito | Descargadas: 352
+Jugador: Pap-G | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Hanskai | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Hanskai | Partida: rapid | Estado: Éxito | Descargadas: 6
+Jugador: Hanskai | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Pap-G | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Popovich2020 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Pap-G | Partida: rapid | Estado: Éxito | Descargadas: 479
+Jugador: Pap-G | Partida: classical | Estado: Éxito | Descargadas: 24
+Jugador: Amin_NH | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Amin_NH | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Amin_NH | Partida: rapid | Estado: Éxito | Descargadas: 576
+Jugador: Amin_NH | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Popovich2020 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Popovich2020 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Popovich2020 | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: Ignathor | Partida: bullet | Estado: Éxito | Descargadas: 113
+Jugador: FianuioAspas12 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Ignathor | Partida: blitz | Estado: Éxito | Descargadas: 1009
+Jugador: Ignathor | Partida: rapid | Estado: Éxito | Descargadas: 111
+Jugador: Ignathor | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: FianuioAspas12 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Forester_19 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: FianuioAspas12 | Partida: rapid | Estado: Éxito | Descargadas: 549
+Jugador: FianuioAspas12 | Partida: classical | Estado: Éxito | Descargadas: 9
+Jugador: andreu666 | Partida: bullet | Estado: Éxito | Descargadas: 255
+Jugador: Forester_19 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Forester_19 | Partida: rapid | Estado: Éxito | Descargadas: 375
+Jugador: andreu666 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Forester_19 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LeelooKorbenDallas | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: LeelooKorbenDallas | Partida: blitz | Estado: Éxito | Descargadas: 213
+Jugador: LeelooKorbenDallas | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: LeelooKorbenDallas | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: andreu666 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: andreu666 | Partida: classical | Estado: Éxito | Descargadas: 155
+Jugador: KAPUTVSEMU | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Grempsi | Partida: bullet | Estado: Éxito | Descargadas: 1050
+Jugador: KAPUTVSEMU | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: KAPUTVSEMU | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: KAPUTVSEMU | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Chariteawithambition | Partida: bullet | Estado: Éxito | Descargadas: 196
+Jugador: Grempsi | Partida: blitz | Estado: Éxito | Descargadas: 1592
+Jugador: Grempsi | Partida: rapid | Estado: Éxito | Descargadas: 27
+Jugador: Grempsi | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Chariteawithambition | Partida: blitz | Estado: Éxito | Descargadas: 1933
+Jugador: Chariteawithambition | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Chariteawithambition | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: chesswithmra | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: chesswithmra | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: chesswithmra | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: chesswithmra | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Pavel-Vorontsov | Partida: bullet | Estado: Éxito | Descargadas: 9
+Jugador: HamedManoochehri | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Pavel-Vorontsov | Partida: blitz | Estado: Éxito | Descargadas: 1654
+Jugador: Pavel-Vorontsov | Partida: rapid | Estado: Éxito | Descargadas: 54
+Jugador: Pavel-Vorontsov | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: HamedManoochehri | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Coach13 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: HamedManoochehri | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: HamedManoochehri | Partida: classical | Estado: Éxito | Descargadas: 146
+Jugador: Coach13 | Partida: blitz | Estado: Éxito | Descargadas: 1321
+Jugador: Coach13 | Partida: rapid | Estado: Éxito | Descargadas: 4
+Jugador: Coach13 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: maksattamsat | Partida: bullet | Estado: Éxito | Descargadas: 934
+Jugador: TarmosanCheese | Partida: bullet | Estado: Éxito | Descargadas: 375
+Jugador: TarmosanCheese | Partida: blitz | Estado: Éxito | Descargadas: 839
+Jugador: TarmosanCheese | Partida: rapid | Estado: Éxito | Descargadas: 91
+Jugador: TarmosanCheese | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: maksattamsat | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: maksattamsat | Partida: rapid | Estado: Éxito | Descargadas: 82
+Jugador: maksattamsat | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: gefuehlter_FM | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: NorthWind05 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: NorthWind05 | Partida: blitz | Estado: Éxito | Descargadas: 916
+Jugador: gefuehlter_FM | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: NorthWind05 | Partida: rapid | Estado: Éxito | Descargadas: 981
+Jugador: gefuehlter_FM | Partida: rapid | Estado: Éxito | Descargadas: 615
+Jugador: NorthWind05 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: gefuehlter_FM | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BatmanBinSuperman | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: BatmanBinSuperman | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: BatmanBinSuperman | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BatmanBinSuperman | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Jspace02 | Partida: bullet | Estado: Éxito | Descargadas: 68
+Jugador: dr_XXL | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Jspace02 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Jspace02 | Partida: rapid | Estado: Éxito | Descargadas: 905
+Jugador: Jspace02 | Partida: classical | Estado: Éxito | Descargadas: 19
+Jugador: dr_XXL | Partida: blitz | Estado: Éxito | Descargadas: 1389
+Jugador: dr_XXL | Partida: rapid | Estado: Éxito | Descargadas: 4
+Jugador: dr_XXL | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Prepstoring | Partida: bullet | Estado: Éxito | Descargadas: 1015
+Jugador: Prepstoring | Partida: blitz | Estado: Éxito | Descargadas: 999
+Jugador: Prepstoring | Partida: rapid | Estado: Éxito | Descargadas: 398
+Jugador: chessed70 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Prepstoring | Partida: classical | Estado: Éxito | Descargadas: 54
+Jugador: chessed70 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Rakhmanov_Aleksandr | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: chessed70 | Partida: rapid | Estado: Éxito | Descargadas: 257
+Jugador: chessed70 | Partida: classical | Estado: Éxito | Descargadas: 5
+Jugador: Solidifying | Partida: bullet | Estado: Éxito | Descargadas: 279
+Jugador: Solidifying | Partida: blitz | Estado: Éxito | Descargadas: 291
+Jugador: Solidifying | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Solidifying | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Rakhmanov_Aleksandr | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Rakhmanov_Aleksandr | Partida: rapid | Estado: Éxito | Descargadas: 504
+Jugador: Rakhmanov_Aleksandr | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ReynaMatias | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: ReynaMatias | Partida: blitz | Estado: Éxito | Descargadas: 451
+Jugador: ReynaMatias | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ReynaMatias | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: mzh1995 | Partida: bullet | Estado: Éxito | Descargadas: 145
+Jugador: mzh1995 | Partida: blitz | Estado: Éxito | Descargadas: 126
+Jugador: mzh1995 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: mzh1995 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: YaaasQueen | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: artem64 | Partida: bullet | Estado: Éxito | Descargadas: 1041
+Jugador: YaaasQueen | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: artem64 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: artem64 | Partida: rapid | Estado: Éxito | Descargadas: 49
+Jugador: artem64 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: YaaasQueen | Partida: rapid | Estado: Éxito | Descargadas: 727
+Jugador: YaaasQueen | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kinryln | Partida: bullet | Estado: Éxito | Descargadas: 1744
+Jugador: Bennerbeatbox | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Kinryln | Partida: blitz | Estado: Éxito | Descargadas: 1564
+Jugador: Kinryln | Partida: rapid | Estado: Éxito | Descargadas: 15
+Jugador: Kinryln | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Xmaskerino_Student | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Bennerbeatbox | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Bennerbeatbox | Partida: rapid | Estado: Éxito | Descargadas: 352
+Jugador: Bennerbeatbox | Partida: classical | Estado: Éxito | Descargadas: 78
+Jugador: adhamyas | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: adhamyas | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Xmaskerino_Student | Partida: blitz | Estado: Éxito | Descargadas: 1403
+Jugador: Xmaskerino_Student | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: Xmaskerino_Student | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: adhamyas | Partida: rapid | Estado: Éxito | Descargadas: 107
+Jugador: adhamyas | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: WYshishabi | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: WYshishabi | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: WYshishabi | Partida: rapid | Estado: Éxito | Descargadas: 182
+Jugador: WYshishabi | Partida: classical | Estado: Éxito | Descargadas: 13
+Jugador: Heisenberg01 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: LittlePumpkin | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Heisenberg01 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Heisenberg01 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Heisenberg01 | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: LittlePumpkin | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Baidetskyi_Valentin | Partida: bullet | Estado: Éxito | Descargadas: 1336
+Jugador: LittlePumpkin | Partida: rapid | Estado: Éxito | Descargadas: 1938
+Jugador: LittlePumpkin | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: Baidetskyi_Valentin | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Baidetskyi_Valentin | Partida: rapid | Estado: Éxito | Descargadas: 2
+Jugador: Baidetskyi_Valentin | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: CrazySage | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: CrazySage | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Debagg | Partida: bullet | Estado: Éxito | Descargadas: 1786
+Jugador: DarkAlekhine | Partida: bullet | Estado: Éxito | Descargadas: 1939
+Jugador: Debagg | Partida: blitz | Estado: Éxito | Descargadas: 1416
+Jugador: Debagg | Partida: rapid | Estado: Éxito | Descargadas: 1981
+Jugador: DarkAlekhine | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Debagg | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: h5h6h7 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: h5h6h7 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: h5h6h7 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: h5h6h7 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: DarkAlekhine | Partida: rapid | Estado: Éxito | Descargadas: 109
+Jugador: ORACLEof64 | Partida: bullet | Estado: Éxito | Descargadas: 62
+Jugador: DarkAlekhine | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: FishhingForFish | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: ORACLEof64 | Partida: blitz | Estado: Éxito | Descargadas: 39
+Jugador: ORACLEof64 | Partida: rapid | Estado: Éxito | Descargadas: 33
+Jugador: ORACLEof64 | Partida: classical | Estado: Éxito | Descargadas: 16
+Jugador: Herobrine_Undefeated | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Herobrine_Undefeated | Partida: blitz | Estado: Éxito | Descargadas: 27
+Jugador: FishhingForFish | Partida: blitz | Estado: Éxito | Descargadas: 287
+Jugador: Herobrine_Undefeated | Partida: rapid | Estado: Éxito | Descargadas: 65
+Jugador: Herobrine_Undefeated | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: FishhingForFish | Partida: rapid | Estado: Éxito | Descargadas: 77
+Jugador: Estonicca | Partida: bullet | Estado: Éxito | Descargadas: 1
+Jugador: FishhingForFish | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Carlsen_brat | Partida: bullet | Estado: Éxito | Descargadas: 15
+Jugador: Estonicca | Partida: blitz | Estado: Éxito | Descargadas: 21
+Jugador: Estonicca | Partida: rapid | Estado: Éxito | Descargadas: 204
+Jugador: Estonicca | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Cf3paraCg1 | Partida: bullet | Estado: Éxito | Descargadas: 8
+Jugador: Carlsen_brat | Partida: blitz | Estado: Éxito | Descargadas: 1189
+Jugador: Carlsen_brat | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Carlsen_brat | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Cf3paraCg1 | Partida: blitz | Estado: Éxito | Descargadas: 966
+Jugador: Cf3paraCg1 | Partida: rapid | Estado: Éxito | Descargadas: 445
+Jugador: Cf3paraCg1 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: DarkNebula-B | Partida: bullet | Estado: Éxito | Descargadas: 225
+Jugador: DarkNebula-B | Partida: blitz | Estado: Éxito | Descargadas: 259
+Jugador: DarkNebula-B | Partida: rapid | Estado: Éxito | Descargadas: 259
+Jugador: DarkNebula-B | Partida: classical | Estado: Éxito | Descargadas: 31
+Jugador: BrightFalcon | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: BrightFalcon | Partida: blitz | Estado: Éxito | Descargadas: 1332
+Jugador: BrightFalcon | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BrightFalcon | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: interestinglandscape | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AVS2000 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: interestinglandscape | Partida: blitz | Estado: Éxito | Descargadas: 1996
+Jugador: interestinglandscape | Partida: rapid | Estado: Éxito | Descargadas: 405
+Jugador: interestinglandscape | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AVS2000 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AVS2000 | Partida: rapid | Estado: Éxito | Descargadas: 83
+Jugador: CoachCai | Partida: bullet | Estado: Éxito | Descargadas: 1632
+Jugador: AVS2000 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Ciderdrinker | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: CoachCai | Partida: blitz | Estado: Éxito | Descargadas: 589
+Jugador: CoachCai | Partida: rapid | Estado: Éxito | Descargadas: 253
+Jugador: CoachCai | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Ciderdrinker | Partida: blitz | Estado: Éxito | Descargadas: 1194
+Jugador: Ciderdrinker | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Ciderdrinker | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: MOTAR0 | Partida: bullet | Estado: Éxito | Descargadas: 264
+Jugador: Kysylyn | Partida: bullet | Estado: Éxito | Descargadas: 1544
+Jugador: MOTAR0 | Partida: blitz | Estado: Éxito | Descargadas: 1695
+Jugador: MOTAR0 | Partida: rapid | Estado: Éxito | Descargadas: 2
+Jugador: MOTAR0 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kysylyn | Partida: blitz | Estado: Éxito | Descargadas: 1613
+Jugador: Kysylyn | Partida: rapid | Estado: Éxito | Descargadas: 211
+Jugador: Kysylyn | Partida: classical | Estado: Éxito | Descargadas: 6
+Jugador: Hotprimus | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: rehbwf | Partida: bullet | Estado: Éxito | Descargadas: 1999
+Jugador: Hotprimus | Partida: blitz | Estado: Éxito | Descargadas: 1347
+Jugador: Hotprimus | Partida: rapid | Estado: Éxito | Descargadas: 23
+Jugador: Hotprimus | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: rehbwf | Partida: blitz | Estado: Éxito | Descargadas: 1999
+Jugador: TacticsMan23 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: rehbwf | Partida: rapid | Estado: Éxito | Descargadas: 923
+Jugador: rehbwf | Partida: classical | Estado: Éxito | Descargadas: 61
+Jugador: TacticsMan23 | Partida: blitz | Estado: Éxito | Descargadas: 636
+Jugador: TacticsMan23 | Partida: rapid | Estado: Éxito | Descargadas: 9
+Jugador: Proward05 | Partida: bullet | Estado: Éxito | Descargadas: 155
+Jugador: TacticsMan23 | Partida: classical | Estado: Éxito | Descargadas: 3
+Jugador: Proward05 | Partida: blitz | Estado: Éxito | Descargadas: 396
+Jugador: Proward05 | Partida: rapid | Estado: Éxito | Descargadas: 522
+Jugador: Proward05 | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: Zangyglobal | Partida: bullet | Estado: Éxito | Descargadas: 1161
+Jugador: Zangyglobal | Partida: blitz | Estado: Éxito | Descargadas: 605
+Jugador: Zangyglobal | Partida: rapid | Estado: Éxito | Descargadas: 5
+Jugador: Zangyglobal | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: onepoundrook | Partida: bullet | Estado: Éxito | Descargadas: 248
+Jugador: JG2001 | Partida: bullet | Estado: Éxito | Descargadas: 1998
+Jugador: onepoundrook | Partida: blitz | Estado: Éxito | Descargadas: 1670
+Jugador: onepoundrook | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: onepoundrook | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: JG2001 | Partida: blitz | Estado: Éxito | Descargadas: 1320
+Jugador: JG2001 | Partida: rapid | Estado: Éxito | Descargadas: 242
+Jugador: JG2001 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: catanalyst | Partida: bullet | Estado: Éxito | Descargadas: 41
+Jugador: catanalyst | Partida: blitz | Estado: Éxito | Descargadas: 678
+Jugador: catanalyst | Partida: rapid | Estado: Éxito | Descargadas: 95
+Jugador: catanalyst | Partida: classical | Estado: Éxito | Descargadas: 10
+Jugador: C0mB1n0v1tch | Partida: bullet | Estado: Éxito | Descargadas: 41
+Jugador: kingofspeedd | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: C0mB1n0v1tch | Partida: blitz | Estado: Éxito | Descargadas: 1707
+Jugador: C0mB1n0v1tch | Partida: rapid | Estado: Éxito | Descargadas: 80
+Jugador: C0mB1n0v1tch | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: kingofspeedd | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: kingofspeedd | Partida: rapid | Estado: Éxito | Descargadas: 91
+Jugador: kingofspeedd | Partida: classical | Estado: Éxito | Descargadas: 10
+Jugador: daddystrength | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: justantan | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: daddystrength | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: justantan | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: justantan | Partida: rapid | Estado: Éxito | Descargadas: 126
+Jugador: justantan | Partida: classical | Estado: Éxito | Descargadas: 3
+Jugador: daddystrength | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: daddystrength | Partida: classical | Estado: Éxito | Descargadas: 295
+Jugador: Kodrut | Partida: bullet | Estado: Éxito | Descargadas: 123
+Jugador: delta_horsey | Partida: bullet | Estado: Éxito | Descargadas: 1764
+Jugador: Kodrut | Partida: blitz | Estado: Éxito | Descargadas: 151
+Jugador: delta_horsey | Partida: blitz | Estado: Éxito | Descargadas: 352
+Jugador: delta_horsey | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: delta_horsey | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kodrut | Partida: rapid | Estado: Éxito | Descargadas: 424
+Jugador: Kodrut | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: cjota95 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: zanycolourfulwindow | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: cjota95 | Partida: blitz | Estado: Éxito | Descargadas: 1341
+Jugador: cjota95 | Partida: rapid | Estado: Éxito | Descargadas: 195
+Jugador: cjota95 | Partida: classical | Estado: Éxito | Descargadas: 88
+Jugador: zanycolourfulwindow | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Biriyani | Partida: bullet | Estado: Éxito | Descargadas: 1994
+Jugador: zanycolourfulwindow | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: zanycolourfulwindow | Partida: classical | Estado: Éxito | Descargadas: 159
+Jugador: OX528354 | Partida: bullet | Estado: Éxito | Descargadas: 9
+Jugador: OX528354 | Partida: blitz | Estado: Éxito | Descargadas: 434
+Jugador: OX528354 | Partida: rapid | Estado: Éxito | Descargadas: 314
+Jugador: OX528354 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: bearhardy | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Biriyani | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Biriyani | Partida: rapid | Estado: Éxito | Descargadas: 24
+Jugador: Biriyani | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: mitsutszkisszucs | Partida: bullet | Estado: Éxito | Descargadas: 107
+Jugador: bearhardy | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: bearhardy | Partida: rapid | Estado: Éxito | Descargadas: 577
+Jugador: bearhardy | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: mitsutszkisszucs | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: mitsutszkisszucs | Partida: rapid | Estado: Éxito | Descargadas: 16
+Jugador: mitsutszkisszucs | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: AASP1124 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: einstein_79 | Partida: bullet | Estado: Éxito | Descargadas: 1466
+Jugador: einstein_79 | Partida: blitz | Estado: Éxito | Descargadas: 118
+Jugador: einstein_79 | Partida: rapid | Estado: Éxito | Descargadas: 99
+Jugador: einstein_79 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: d1rector | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: d1rector | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: d1rector | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: d1rector | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: AASP1124 | Partida: blitz | Estado: Éxito | Descargadas: 1759
+Jugador: HoMeEeEr | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AASP1124 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: AASP1124 | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: HoMeEeEr | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: enmQ | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: HoMeEeEr | Partida: rapid | Estado: Éxito | Descargadas: 707
+Jugador: HoMeEeEr | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: edziomobil | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: enmQ | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: enmQ | Partida: rapid | Estado: Éxito | Descargadas: 147
+Jugador: enmQ | Partida: classical | Estado: Éxito | Descargadas: 13
+Jugador: Tharvin2010 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: LeNoobsInLeTactics | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Tharvin2010 | Partida: blitz | Estado: Éxito | Descargadas: 1924
+Jugador: Tharvin2010 | Partida: rapid | Estado: Éxito | Descargadas: 638
+Jugador: LeNoobsInLeTactics | Partida: blitz | Estado: Éxito | Descargadas: 959
+Jugador: Tharvin2010 | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: LeNoobsInLeTactics | Partida: rapid | Estado: Éxito | Descargadas: 3
+Jugador: joeALT30 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LeNoobsInLeTactics | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: littleprince1981 | Partida: bullet | Estado: Éxito | Descargadas: 1300
+Jugador: littleprince1981 | Partida: blitz | Estado: Éxito | Descargadas: 57
+Jugador: littleprince1981 | Partida: rapid | Estado: Éxito | Descargadas: 128
+Jugador: littleprince1981 | Partida: classical | Estado: Éxito | Descargadas: 98
+Jugador: froggykermit | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: froggykermit | Partida: blitz | Estado: Éxito | Descargadas: 141
+Jugador: Chesstoday | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: froggykermit | Partida: rapid | Estado: Éxito | Descargadas: 252
+Jugador: froggykermit | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Chesstoday | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Chesstoday | Partida: rapid | Estado: Éxito | Descargadas: 41
+Jugador: Chesstoday | Partida: classical | Estado: Éxito | Descargadas: 8
+Jugador: Volga_Tiger | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Volga_Tiger | Partida: blitz | Estado: Éxito | Descargadas: 559
+Jugador: Volga_Tiger | Partida: rapid | Estado: Éxito | Descargadas: 56
+Jugador: Volga_Tiger | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: chessmount | Partida: bullet | Estado: Éxito | Descargadas: 615
+Jugador: IVK88 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: chessmount | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: IVK88 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: IVK88 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: IVK88 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: hristiyan06 | Partida: bullet | Estado: Éxito | Descargadas: 669
+Jugador: hristiyan06 | Partida: blitz | Estado: Éxito | Descargadas: 410
+Jugador: hristiyan06 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: hristiyan06 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: chessmount | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: chessmount | Partida: classical | Estado: Éxito | Descargadas: 495
+Jugador: Frankeinsteinzombie | Partida: bullet | Estado: Éxito | Descargadas: 233
+Jugador: Frankeinsteinzombie | Partida: blitz | Estado: Éxito | Descargadas: 255
+Jugador: Frankeinsteinzombie | Partida: rapid | Estado: Éxito | Descargadas: 341
+Jugador: Frankeinsteinzombie | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: MATRIXTRINITY | Partida: bullet | Estado: Éxito | Descargadas: 252
+Jugador: Pblu35 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: MATRIXTRINITY | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Pblu35 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Pblu35 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Pblu35 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Lyonbeast21 | Partida: bullet | Estado: Éxito | Descargadas: 12
+Jugador: Lyonbeast21 | Partida: blitz | Estado: Éxito | Descargadas: 425
+Jugador: Lyonbeast21 | Partida: rapid | Estado: Éxito | Descargadas: 31
+Jugador: Lyonbeast21 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: nickVet | Partida: bullet | Estado: Éxito | Descargadas: 643
+Jugador: nickVet | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: nickVet | Partida: rapid | Estado: Éxito | Descargadas: 272
+Jugador: nickVet | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BenjaminBokTwitch | Partida: bullet | Estado: Éxito | Descargadas: 76
+Jugador: BenjaminBokTwitch | Partida: blitz | Estado: Éxito | Descargadas: 684
+Jugador: BenjaminBokTwitch | Partida: rapid | Estado: Éxito | Descargadas: 37
+Jugador: BenjaminBokTwitch | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: lqevsll | Partida: bullet | Estado: Éxito | Descargadas: 15
+Jugador: Roman2001 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: lqevsll | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: lqevsll | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: lqevsll | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Baidetskyi_Valentin | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Baidetskyi_Valentin | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Baidetskyi_Valentin | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Baidetskyi_Valentin | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Buhmann | Partida: bullet | Estado: Éxito | Descargadas: 87
+Jugador: Roman2001 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Roman2001 | Partida: rapid | Estado: Éxito | Descargadas: 312
+Jugador: Roman2001 | Partida: classical | Estado: Éxito | Descargadas: 6
+Jugador: Kurald_Galain | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Kurald_Galain | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Kurald_Galain | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kurald_Galain | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: buldym | Partida: bullet | Estado: Éxito | Descargadas: 644
+Jugador: buldym | Partida: blitz | Estado: Éxito | Descargadas: 134
+Jugador: buldym | Partida: rapid | Estado: Éxito | Descargadas: 108
+Jugador: Buhmann | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: buldym | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Buhmann | Partida: rapid | Estado: Éxito | Descargadas: 53
+Jugador: Buhmann | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Fran4477 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: love_you_one | Partida: bullet | Estado: Éxito | Descargadas: 127
+Jugador: Fran4477 | Partida: blitz | Estado: Éxito | Descargadas: 695
+Jugador: Fran4477 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Fran4477 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: love_you_one | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: love_you_one | Partida: rapid | Estado: Éxito | Descargadas: 241
+Jugador: Tsoi_Dima | Partida: bullet | Estado: Éxito | Descargadas: 1488
+Jugador: love_you_one | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tsoi_Dima | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Tsoi_Dima | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ArieWerksma | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Tsoi_Dima | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: EvilGenius94 | Partida: bullet | Estado: Éxito | Descargadas: 405
+Jugador: EvilGenius94 | Partida: blitz | Estado: Éxito | Descargadas: 400
+Jugador: EvilGenius94 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: EvilGenius94 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: karagioules | Partida: bullet | Estado: Éxito | Descargadas: 913
+Jugador: ArieWerksma | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: ArieWerksma | Partida: rapid | Estado: Éxito | Descargadas: 1495
+Jugador: ArieWerksma | Partida: classical | Estado: Éxito | Descargadas: 5
+Jugador: BeatrizRuvieri | Partida: bullet | Estado: Éxito | Descargadas: 1
+Jugador: BeatrizRuvieri | Partida: blitz | Estado: Éxito | Descargadas: 44
+Jugador: karagioules | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: karagioules | Partida: rapid | Estado: Éxito | Descargadas: 66
+Jugador: karagioules | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Biriyani | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Biriyani | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Biriyani | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Biriyani | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: SF-46 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: SF-46 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: SF-46 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: SF-46 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: BeatrizRuvieri | Partida: rapid | Estado: Éxito | Descargadas: 1329
+Jugador: BeatrizRuvieri | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BrittaBagels | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: andy2342 | Partida: bullet | Estado: Éxito | Descargadas: 1091
+Jugador: andy2342 | Partida: blitz | Estado: Éxito | Descargadas: 1289
+Jugador: andy2342 | Partida: rapid | Estado: Éxito | Descargadas: 33
+Jugador: andy2342 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Stephen31 | Partida: bullet | Estado: Éxito | Descargadas: 203
+Jugador: BrittaBagels | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: BrittaBagels | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BrittaBagels | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: arturchix | Partida: bullet | Estado: Éxito | Descargadas: 270
+Jugador: Stephen31 | Partida: blitz | Estado: Éxito | Descargadas: 1204
+Jugador: Stephen31 | Partida: rapid | Estado: Éxito | Descargadas: 174
+Jugador: Stephen31 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: chessmount | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: chessmount | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: chessmount | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: chessmount | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Aleph_Vox | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Aleph_Vox | Partida: blitz | Estado: Éxito | Descargadas: 2
+Jugador: Aleph_Vox | Partida: rapid | Estado: Éxito | Descargadas: 129
+Jugador: Aleph_Vox | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: daddystrength | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: daddystrength | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: daddystrength | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: daddystrength | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Mahlermaniaco | Partida: bullet | Estado: Éxito | Descargadas: 288
+Jugador: arturchix | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: arturchix | Partida: rapid | Estado: Éxito | Descargadas: 4
+Jugador: arturchix | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Mahlermaniaco | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Secret_Spion | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Mahlermaniaco | Partida: rapid | Estado: Éxito | Descargadas: 741
+Jugador: Mahlermaniaco | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Secret_Spion | Partida: blitz | Estado: Éxito | Descargadas: 1368
+Jugador: Secret_Spion | Partida: rapid | Estado: Éxito | Descargadas: 21
+Jugador: Secret_Spion | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: PathtoVictory3000 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: QuarterPawn | Partida: bullet | Estado: Éxito | Descargadas: 964
+Jugador: PathtoVictory3000 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: PathtoVictory3000 | Partida: rapid | Estado: Éxito | Descargadas: 140
+Jugador: PathtoVictory3000 | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: QuarterPawn | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: QuarterPawn | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: TheDestinedOne | Partida: bullet | Estado: Éxito | Descargadas: 71
+Jugador: QuarterPawn | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: TheDestinedOne | Partida: blitz | Estado: Éxito | Descargadas: 22
+Jugador: TheDestinedOne | Partida: rapid | Estado: Éxito | Descargadas: 35
+Jugador: TheDestinedOne | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Mazen_Ahmed2008 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Mazen_Ahmed2008 | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Mazen_Ahmed2008 | Partida: rapid | Estado: Éxito | Descargadas: 103
+Jugador: Mazen_Ahmed2008 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tuzakli_Egitim | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Mikevs | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Tuzakli_Egitim | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Mikevs | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Mikevs | Partida: rapid | Estado: Éxito | Descargadas: 624
+Jugador: Mikevs | Partida: classical | Estado: Éxito | Descargadas: 22
+Jugador: Postnova_Margarita12 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Postnova_Margarita12 | Partida: blitz | Estado: Éxito | Descargadas: 154
+Jugador: Tuzakli_Egitim | Partida: rapid | Estado: Éxito | Descargadas: 1541
+Jugador: Tuzakli_Egitim | Partida: classical | Estado: Éxito | Descargadas: 8
+Jugador: Postnova_Margarita12 | Partida: rapid | Estado: Éxito | Descargadas: 502
+Jugador: Postnova_Margarita12 | Partida: classical | Estado: Éxito | Descargadas: 10
+Jugador: Chewbacca18 | Partida: bullet | Estado: Éxito | Descargadas: 1998
+Jugador: tireDemocrat | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Chewbacca18 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Chewbacca18 | Partida: rapid | Estado: Éxito | Descargadas: 82
+Jugador: Chewbacca18 | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: tireDemocrat | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: tireDemocrat | Partida: rapid | Estado: Éxito | Descargadas: 365
+Jugador: tireDemocrat | Partida: classical | Estado: Éxito | Descargadas: 40
+Jugador: gan06 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Nidmas | Partida: bullet | Estado: Éxito | Descargadas: 1612
+Jugador: Nidmas | Partida: blitz | Estado: Éxito | Descargadas: 193
+Jugador: Nidmas | Partida: rapid | Estado: Éxito | Descargadas: 283
+Jugador: Nidmas | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AllGunsBlazing22 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: gan06 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: gan06 | Partida: rapid | Estado: Éxito | Descargadas: 140
+Jugador: gan06 | Partida: classical | Estado: Éxito | Descargadas: 21
+Jugador: ixci | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: ixci | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: ixci | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ixci | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AASP1124 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: AASP1124 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: AASP1124 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: AASP1124 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Samid2002 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: AllGunsBlazing22 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AllGunsBlazing22 | Partida: rapid | Estado: Éxito | Descargadas: 315
+Jugador: AllGunsBlazing22 | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: Samid2002 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Samid2002 | Partida: rapid | Estado: Éxito | Descargadas: 28
+Jugador: Samid2002 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: MJRFRNLM | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: MJRFRNLM | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: MJRFRNLM | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: MJRFRNLM | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Popovich2020 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Popovich2020 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Popovich2020 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Popovich2020 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: A-X-L | Partida: bullet | Estado: Éxito | Descargadas: 1864
+Jugador: okriak | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: A-X-L | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: okriak | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: okriak | Partida: rapid | Estado: Éxito | Descargadas: 44
+Jugador: okriak | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: A-X-L | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: A-X-L | Partida: classical | Estado: Éxito | Descargadas: 39
+Jugador: Koshulyan_Egor | Partida: bullet | Estado: Éxito | Descargadas: 1132
+Jugador: LavishChess | Partida: bullet | Estado: Éxito | Descargadas: 1403
+Jugador: Koshulyan_Egor | Partida: blitz | Estado: Éxito | Descargadas: 1034
+Jugador: Koshulyan_Egor | Partida: rapid | Estado: Éxito | Descargadas: 43
+Jugador: Koshulyan_Egor | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: TarmosanCheese | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: TarmosanCheese | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: TarmosanCheese | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: TarmosanCheese | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: TBold3 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: TBold3 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: TBold3 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: TBold3 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LavishChess | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: tjychess | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: LavishChess | Partida: rapid | Estado: Éxito | Descargadas: 934
+Jugador: LavishChess | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CHESS_Toxik | Partida: bullet | Estado: Éxito | Descargadas: 555
+Jugador: tjychess | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: tjychess | Partida: rapid | Estado: Éxito | Descargadas: 42
+Jugador: tjychess | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: Hotprimus | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Hotprimus | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Hotprimus | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Hotprimus | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CHESS_Toxik | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: CHESS_Toxik | Partida: rapid | Estado: Éxito | Descargadas: 497
+Jugador: CHESS_Toxik | Partida: classical | Estado: Éxito | Descargadas: 70
+Jugador: Mlchael | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Breathing_water | Partida: bullet | Estado: Éxito | Descargadas: 732
+Jugador: Breathing_water | Partida: blitz | Estado: Éxito | Descargadas: 726
+Jugador: Mlchael | Partida: blitz | Estado: Éxito | Descargadas: 1434
+Jugador: Mlchael | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: Mlchael | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Breathing_water | Partida: rapid | Estado: Éxito | Descargadas: 480
+Jugador: Breathing_water | Partida: classical | Estado: Éxito | Descargadas: 32
+Jugador: AnIndianChessplayer | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: LevGLev | Partida: bullet | Estado: Éxito | Descargadas: 1998
+Jugador: AnIndianChessplayer | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: LevGLev | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AnIndianChessplayer | Partida: rapid | Estado: Éxito | Descargadas: 908
+Jugador: AnIndianChessplayer | Partida: classical | Estado: Éxito | Descargadas: 153
+Jugador: Xmaskerino_Student | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Xmaskerino_Student | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Xmaskerino_Student | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Xmaskerino_Student | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LevGLev | Partida: rapid | Estado: Éxito | Descargadas: 1292
+Jugador: LevGLev | Partida: classical | Estado: Éxito | Descargadas: 63
+Jugador: Amateur_IM | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AntiberserkM | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Amateur_IM | Partida: blitz | Estado: Éxito | Descargadas: 1972
+Jugador: Amateur_IM | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Amateur_IM | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Chariteawithambition | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Chariteawithambition | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Chariteawithambition | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Chariteawithambition | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AntiberserkM | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AntiberserkM | Partida: rapid | Estado: Éxito | Descargadas: 1773
+Jugador: Misi_95 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AntiberserkM | Partida: classical | Estado: Éxito | Descargadas: 165
+Jugador: Mr_StarrySky | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Mr_StarrySky | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Mr_StarrySky | Partida: rapid | Estado: Éxito | Descargadas: 139
+Jugador: Mr_StarrySky | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AnIndianChessplayer | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: AnIndianChessplayer | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: AnIndianChessplayer | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: AnIndianChessplayer | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: joeALT30 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Misi_95 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Misi_95 | Partida: rapid | Estado: Éxito | Descargadas: 13
+Jugador: Misi_95 | Partida: classical | Estado: Éxito | Descargadas: 3
+Jugador: albowiem | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: vistagausta | Partida: bullet | Estado: Éxito | Descargadas: 1912
+Jugador: albowiem | Partida: blitz | Estado: Éxito | Descargadas: 1601
+Jugador: albowiem | Partida: rapid | Estado: Éxito | Descargadas: 465
+Jugador: albowiem | Partida: classical | Estado: Éxito | Descargadas: 14
+Jugador: bosspotato | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: bosspotato | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: bosspotato | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: bosspotato | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Magnus_misr | Partida: bullet | Estado: Éxito | Descargadas: 985
+Jugador: vistagausta | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: vistagausta | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: vistagausta | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Magnus_misr | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: ilqar_7474 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Magnus_misr | Partida: rapid | Estado: Éxito | Descargadas: 526
+Jugador: Magnus_misr | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: C01B01 | Partida: bullet | Estado: Éxito | Descargadas: 217
+Jugador: ilqar_7474 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: C01B01 | Partida: blitz | Estado: Éxito | Descargadas: 1637
+Jugador: C01B01 | Partida: rapid | Estado: Éxito | Descargadas: 87
+Jugador: C01B01 | Partida: classical | Estado: Éxito | Descargadas: 36
+Jugador: Frankeinsteinzombie | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Smash_01 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Smash_01 | Partida: blitz | Estado: Éxito | Descargadas: 392
+Jugador: Smash_01 | Partida: rapid | Estado: Éxito | Descargadas: 273
+Jugador: Smash_01 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ilqar_7474 | Partida: rapid | Estado: Éxito | Descargadas: 1232
+Jugador: ilqar_7474 | Partida: classical | Estado: Éxito | Descargadas: 25
+Jugador: dkodwkc | Partida: bullet | Estado: Éxito | Descargadas: 650
+Jugador: dkodwkc | Partida: blitz | Estado: Éxito | Descargadas: 1439
+Jugador: FeegLood | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: dkodwkc | Partida: rapid | Estado: Éxito | Descargadas: 709
+Jugador: dkodwkc | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Quorvex | Partida: bullet | Estado: Éxito | Descargadas: 205
+Jugador: FeegLood | Partida: blitz | Estado: Éxito | Descargadas: 1077
+Jugador: Quorvex | Partida: blitz | Estado: Éxito | Descargadas: 91
+Jugador: FeegLood | Partida: rapid | Estado: Éxito | Descargadas: 50
+Jugador: Quorvex | Partida: rapid | Estado: Éxito | Descargadas: 49
+Jugador: Quorvex | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: FeegLood | Partida: classical | Estado: Éxito | Descargadas: 15
+Jugador: chessed70 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: chessed70 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: chessed70 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: chessed70 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Nefer-Pitou | Partida: bullet | Estado: Éxito | Descargadas: 16
+Jugador: OwnYulix | Partida: bullet | Estado: Éxito | Descargadas: 281
+Jugador: Nefer-Pitou | Partida: blitz | Estado: Éxito | Descargadas: 1265
+Jugador: Nefer-Pitou | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: Nefer-Pitou | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: OwnYulix | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: LoveFifi | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: LoveFifi | Partida: blitz | Estado: Éxito | Descargadas: 231
+Jugador: LoveFifi | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: LoveFifi | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: chesswithmra | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: chesswithmra | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: chesswithmra | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: chesswithmra | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: sapphire_phoenix | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: OwnYulix | Partida: rapid | Estado: Éxito | Descargadas: 1997
+Jugador: OwnYulix | Partida: classical | Estado: Éxito | Descargadas: 80
+Jugador: I_WANT_MORE | Partida: bullet | Estado: Éxito | Descargadas: 61
+Jugador: sapphire_phoenix | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: sapphire_phoenix | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: sapphire_phoenix | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: I_WANT_MORE | Partida: blitz | Estado: Éxito | Descargadas: 1905
+Jugador: I_WANT_MORE | Partida: rapid | Estado: Éxito | Descargadas: 341
+Jugador: I_WANT_MORE | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: brawlball | Partida: bullet | Estado: Éxito | Descargadas: 370
+Jugador: MikeGScarn | Partida: bullet | Estado: Éxito | Descargadas: 1747
+Jugador: brawlball | Partida: blitz | Estado: Éxito | Descargadas: 616
+Jugador: brawlball | Partida: rapid | Estado: Éxito | Descargadas: 275
+Jugador: brawlball | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: MikeGScarn | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: MikeGScarn | Partida: rapid | Estado: Éxito | Descargadas: 4
+Jugador: MikeGScarn | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Weerasekara | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AlexTriapishko | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Weerasekara | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AlexTriapishko | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AlexTriapishko | Partida: rapid | Estado: Éxito | Descargadas: 136
+Jugador: AlexTriapishko | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Weerasekara | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: efourwhitewins | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Weerasekara | Partida: classical | Estado: Éxito | Descargadas: 2000
+Jugador: littleprince1981 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: littleprince1981 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: littleprince1981 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: littleprince1981 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: BudiRizkiansyah | Partida: bullet | Estado: Éxito | Descargadas: 300
+Jugador: efourwhitewins | Partida: blitz | Estado: Éxito | Descargadas: 1416
+Jugador: efourwhitewins | Partida: rapid | Estado: Éxito | Descargadas: 36
+Jugador: efourwhitewins | Partida: classical | Estado: Éxito | Descargadas: 28
+Jugador: BudiRizkiansyah | Partida: blitz | Estado: Éxito | Descargadas: 1001
+Jugador: BudiRizkiansyah | Partida: rapid | Estado: Éxito | Descargadas: 104
+Jugador: BudiRizkiansyah | Partida: classical | Estado: Éxito | Descargadas: 3
+Jugador: MatthewG-p4p | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: JJPlayz | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: MatthewG-p4p | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: JJPlayz | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: MatthewG-p4p | Partida: rapid | Estado: Éxito | Descargadas: 533
+Jugador: MatthewG-p4p | Partida: classical | Estado: Éxito | Descargadas: 105
+Jugador: IVK88 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: IVK88 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: IVK88 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: IVK88 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: JJPlayz | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: JJPlayz | Partida: classical | Estado: Éxito | Descargadas: 294
+Jugador: putpressureonapinned | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: putpressureonapinned | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Lintchevski_Daniil | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: putpressureonapinned | Partida: rapid | Estado: Éxito | Descargadas: 167
+Jugador: putpressureonapinned | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: JG2001 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: JG2001 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: JG2001 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: JG2001 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Lintchevski_Daniil | Partida: blitz | Estado: Éxito | Descargadas: 1737
+Jugador: Lintchevski_Daniil | Partida: rapid | Estado: Éxito | Descargadas: 8
+Jugador: Lintchevski_Daniil | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: byebob | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: byebob | Partida: blitz | Estado: Éxito | Descargadas: 659
+Jugador: byebob | Partida: rapid | Estado: Éxito | Descargadas: 433
+Jugador: byebob | Partida: classical | Estado: Éxito | Descargadas: 140
+Jugador: Aviamotornaya | Partida: bullet | Estado: Éxito | Descargadas: 94
+Jugador: Aviamotornaya | Partida: blitz | Estado: Éxito | Descargadas: 16
+Jugador: gmmoranda | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Aviamotornaya | Partida: rapid | Estado: Éxito | Descargadas: 242
+Jugador: Aviamotornaya | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: Kradstalmund | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Kradstalmund | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Kradstalmund | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kradstalmund | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Svuezoz | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Svuezoz | Partida: blitz | Estado: Éxito | Descargadas: 32
+Jugador: Svuezoz | Partida: rapid | Estado: Éxito | Descargadas: 165
+Jugador: Svuezoz | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: DarkNebula-B | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: DarkNebula-B | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: DarkNebula-B | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: DarkNebula-B | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: gmmoranda | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: gmmoranda | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: gmmoranda | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: DarkAlekhine | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: DarkAlekhine | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: DarkAlekhine | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: DarkAlekhine | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: ReluctantCannibal | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: ReluctantCannibal | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: ReluctantCannibal | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ReluctantCannibal | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AliAyman127 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: evg85 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AliAyman127 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AliAyman127 | Partida: rapid | Estado: Éxito | Descargadas: 950
+Jugador: AliAyman127 | Partida: classical | Estado: Éxito | Descargadas: 30
+Jugador: evg85 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: evg85 | Partida: rapid | Estado: Éxito | Descargadas: 8
+Jugador: evg85 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Zangyglobal | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Zangyglobal | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Zangyglobal | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Zangyglobal | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BocchoiBoi | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: BocchoiBoi | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: BocchoiBoi | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BocchoiBoi | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Heisenberg9115 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: rasulovvugar | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Heisenberg9115 | Partida: blitz | Estado: Éxito | Descargadas: 629
+Jugador: Heisenberg9115 | Partida: rapid | Estado: Éxito | Descargadas: 621
+Jugador: Heisenberg9115 | Partida: classical | Estado: Éxito | Descargadas: 69
+Jugador: The_Supreme_Judge | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: rasulovvugar | Partida: blitz | Estado: Éxito | Descargadas: 1999
+Jugador: rasulovvugar | Partida: rapid | Estado: Éxito | Descargadas: 213
+Jugador: rasulovvugar | Partida: classical | Estado: Éxito | Descargadas: 15
+Jugador: Nana_jede_cevape | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Nana_jede_cevape | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Nana_jede_cevape | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Nana_jede_cevape | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: The_Supreme_Judge | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: The_Supreme_Judge | Partida: rapid | Estado: Éxito | Descargadas: 348
+Jugador: The_Supreme_Judge | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kodrut | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Kodrut | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Kodrut | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kodrut | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Estonicca | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Estonicca | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Estonicca | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Estonicca | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: tramvay | Partida: bullet | Estado: Éxito | Descargadas: 883
+Jugador: jake_jortles | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: jake_jortles | Partida: blitz | Estado: Éxito | Descargadas: 85
+Jugador: jake_jortles | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: jake_jortles | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: flower9503 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: flower9503 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: flower9503 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: flower9503 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Solidifying | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Solidifying | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Solidifying | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Solidifying | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: tramvay | Partida: blitz | Estado: Éxito | Descargadas: 836
+Jugador: Lukianoo | Partida: bullet | Estado: Éxito | Descargadas: 568
+Jugador: tramvay | Partida: rapid | Estado: Éxito | Descargadas: 994
+Jugador: tramvay | Partida: classical | Estado: Éxito | Descargadas: 91
+Jugador: Lukianoo | Partida: blitz | Estado: Éxito | Descargadas: 1174
+Jugador: Lukianoo | Partida: rapid | Estado: Éxito | Descargadas: 13
+Jugador: Lukianoo | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: Nikita272005 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: abudabi22840 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Nikita272005 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: abudabi22840 | Partida: blitz | Estado: Éxito | Descargadas: 1926
+Jugador: abudabi22840 | Partida: rapid | Estado: Éxito | Descargadas: 393
+Jugador: abudabi22840 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: mitsutszkisszucs | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: mitsutszkisszucs | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: mitsutszkisszucs | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: mitsutszkisszucs | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Nikita272005 | Partida: rapid | Estado: Éxito | Descargadas: 1805
+Jugador: Nikita272005 | Partida: classical | Estado: Éxito | Descargadas: 117
+Jugador: nrvisakh | Partida: bullet | Estado: Éxito | Descargadas: 1700
+Jugador: nrvisakh | Partida: blitz | Estado: Éxito | Descargadas: 624
+Jugador: nrvisakh | Partida: rapid | Estado: Éxito | Descargadas: 13
+Jugador: nrvisakh | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Iron_Man1703 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Iron_Man1703 | Partida: blitz | Estado: Éxito | Descargadas: 504
+Jugador: Iron_Man1703 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Iron_Man1703 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: mzh1995 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: mzh1995 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: mzh1995 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Sharkfang | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: mzh1995 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LeNoobsInLeTactics | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: LeNoobsInLeTactics | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: LeNoobsInLeTactics | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: LeNoobsInLeTactics | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: DingLiren7777777 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: DingLiren7777777 | Partida: blitz | Estado: Éxito | Descargadas: 368
+Jugador: DingLiren7777777 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: DingLiren7777777 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: CrazySage | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: CrazySage | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: CrazySage | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Sharkfang | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Juan_Delasala | Partida: bullet | Estado: Éxito | Descargadas: 1882
+Jugador: Sharkfang | Partida: rapid | Estado: Éxito | Descargadas: 1627
+Jugador: Sharkfang | Partida: classical | Estado: Éxito | Descargadas: 407
+Jugador: Juan_Delasala | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Juan_Delasala | Partida: rapid | Estado: Éxito | Descargadas: 48
+Jugador: Juan_Delasala | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: OpeningScientist | Partida: bullet | Estado: Éxito | Descargadas: 1023
+Jugador: OpeningScientist | Partida: blitz | Estado: Éxito | Descargadas: 725
+Jugador: June31 | Partida: bullet | Estado: Éxito | Descargadas: 1312
+Jugador: OpeningScientist | Partida: rapid | Estado: Éxito | Descargadas: 599
+Jugador: OpeningScientist | Partida: classical | Estado: Éxito | Descargadas: 12
+Jugador: MasteringHW | Partida: bullet | Estado: Éxito | Descargadas: 1230
+Jugador: June31 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: June31 | Partida: rapid | Estado: Éxito | Descargadas: 12
+Jugador: June31 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: MasteringHW | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Elda64 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: MasteringHW | Partida: rapid | Estado: Éxito | Descargadas: 530
+Jugador: MasteringHW | Partida: classical | Estado: Éxito | Descargadas: 74
+Jugador: Tiamo_Firenze | Partida: bullet | Estado: Éxito | Descargadas: 198
+Jugador: Elda64 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Tiamo_Firenze | Partida: blitz | Estado: Éxito | Descargadas: 1470
+Jugador: Elda64 | Partida: rapid | Estado: Éxito | Descargadas: 4
+Jugador: Elda64 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tiamo_Firenze | Partida: rapid | Estado: Éxito | Descargadas: 295
+Jugador: Tiamo_Firenze | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Super_BrainPower | Partida: bullet | Estado: Éxito | Descargadas: 64
+Jugador: Super_BrainPower | Partida: blitz | Estado: Éxito | Descargadas: 404
+Jugador: Super_BrainPower | Partida: rapid | Estado: Éxito | Descargadas: 348
+Jugador: pozvonochek | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Super_BrainPower | Partida: classical | Estado: Éxito | Descargadas: 589
+Jugador: bullishmoves | Partida: bullet | Estado: Éxito | Descargadas: 1682
+Jugador: pozvonochek | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: pozvonochek | Partida: rapid | Estado: Éxito | Descargadas: 2
+Jugador: pozvonochek | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: bullishmoves | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: bullishmoves | Partida: rapid | Estado: Éxito | Descargadas: 179
+Jugador: bullishmoves | Partida: classical | Estado: Éxito | Descargadas: 15
+Jugador: StochasticVolatility | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: NeverEnough | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: StochasticVolatility | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: NeverEnough | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: NeverEnough | Partida: rapid | Estado: Éxito | Descargadas: 11
+Jugador: NeverEnough | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: StochasticVolatility | Partida: rapid | Estado: Éxito | Descargadas: 598
+Jugador: StochasticVolatility | Partida: classical | Estado: Éxito | Descargadas: 13
+Jugador: Sigma_Tauri | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Arteler | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Sigma_Tauri | Partida: blitz | Estado: Éxito | Descargadas: 1005
+Jugador: Sigma_Tauri | Partida: rapid | Estado: Éxito | Descargadas: 47
+Jugador: Sigma_Tauri | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: InvisibleGuest2023 | Partida: bullet | Estado: Éxito | Descargadas: 379
+Jugador: Arteler | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Arteler | Partida: rapid | Estado: Éxito | Descargadas: 310
+Jugador: Arteler | Partida: classical | Estado: Éxito | Descargadas: 62
+Jugador: InvisibleGuest2023 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: InvisibleGuest2023 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: InvisibleGuest2023 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Hammurapi65 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: forgiants | Partida: bullet | Estado: Éxito | Descargadas: 1322
+Jugador: Hammurapi65 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: forgiants | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: forgiants | Partida: rapid | Estado: Éxito | Descargadas: 3
+Jugador: forgiants | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Hammurapi65 | Partida: rapid | Estado: Éxito | Descargadas: 1999
+Jugador: Hammurapi65 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Aristarch_Kukuev | Partida: bullet | Estado: Éxito | Descargadas: 1
+Jugador: Mikhailov_Viacheslav | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Aristarch_Kukuev | Partida: blitz | Estado: Éxito | Descargadas: 388
+Jugador: Aristarch_Kukuev | Partida: rapid | Estado: Éxito | Descargadas: 337
+Jugador: Aristarch_Kukuev | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Mind05 | Partida: bullet | Estado: Éxito | Descargadas: 717
+Jugador: Mikhailov_Viacheslav | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Mikhailov_Viacheslav | Partida: rapid | Estado: Éxito | Descargadas: 225
+Jugador: Mikhailov_Viacheslav | Partida: classical | Estado: Éxito | Descargadas: 11
+Jugador: Woland87 | Partida: bullet | Estado: Éxito | Descargadas: 14
+Jugador: Mind05 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Woland87 | Partida: blitz | Estado: Éxito | Descargadas: 1497
+Jugador: Woland87 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Woland87 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Mind05 | Partida: rapid | Estado: Éxito | Descargadas: 403
+Jugador: Mind05 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: JesusChristConquers | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: JesusChristConquers | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: JesusChristConquers | Partida: rapid | Estado: Éxito | Descargadas: 140
+Jugador: JesusChristConquers | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: powerking96 | Partida: bullet | Estado: Éxito | Descargadas: 340
+Jugador: athena-pallada | Partida: bullet | Estado: Éxito | Descargadas: 1493
+Jugador: powerking96 | Partida: blitz | Estado: Éxito | Descargadas: 1036
+Jugador: powerking96 | Partida: rapid | Estado: Éxito | Descargadas: 510
+Jugador: powerking96 | Partida: classical | Estado: Éxito | Descargadas: 20
+Jugador: Knight_ofthelight73 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Knight_ofthelight73 | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Knight_ofthelight73 | Partida: rapid | Estado: Éxito | Descargadas: 248
+Jugador: Knight_ofthelight73 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ORACLEof64 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: ORACLEof64 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: ORACLEof64 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: ORACLEof64 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Odette_de_Crecy | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Odette_de_Crecy | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Odette_de_Crecy | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Odette_de_Crecy | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: FlyyElloW_2000YO | Partida: bullet | Estado: Éxito | Descargadas: 154
+Jugador: FlyyElloW_2000YO | Partida: blitz | Estado: Éxito | Descargadas: 136
+Jugador: FlyyElloW_2000YO | Partida: rapid | Estado: Éxito | Descargadas: 125
+Jugador: FlyyElloW_2000YO | Partida: classical | Estado: Éxito | Descargadas: 13
+Jugador: athena-pallada | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: IgnatevDP | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: athena-pallada | Partida: rapid | Estado: Éxito | Descargadas: 243
+Jugador: athena-pallada | Partida: classical | Estado: Éxito | Descargadas: 67
+Jugador: IgnatevDP | Partida: blitz | Estado: Éxito | Descargadas: 1222
+Jugador: WhiteRabbit00735 | Partida: bullet | Estado: Éxito | Descargadas: 1188
+Jugador: IgnatevDP | Partida: rapid | Estado: Éxito | Descargadas: 984
+Jugador: IgnatevDP | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: WhiteRabbit00735 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: WhiteRabbit00735 | Partida: rapid | Estado: Éxito | Descargadas: 7
+Jugador: WhiteRabbit00735 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Finite_Incantatem777 | Partida: bullet | Estado: Éxito | Descargadas: 108
+Jugador: MarkosianDavid | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Finite_Incantatem777 | Partida: blitz | Estado: Éxito | Descargadas: 697
+Jugador: Finite_Incantatem777 | Partida: rapid | Estado: Éxito | Descargadas: 16
+Jugador: Finite_Incantatem777 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: gefuehlter_FM | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: gefuehlter_FM | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: gefuehlter_FM | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: gefuehlter_FM | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ShellingFord92 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: ShellingFord92 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: ShellingFord92 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: ShellingFord92 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: BeatrizRuvieri | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: BeatrizRuvieri | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: BeatrizRuvieri | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: BeatrizRuvieri | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Super_BrainPower | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Super_BrainPower | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Super_BrainPower | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Super_BrainPower | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: IsolatedMushroom | Partida: bullet | Estado: Éxito | Descargadas: 1131
+Jugador: Aichyy | Partida: bullet | Estado: Éxito | Descargadas: 1984
+Jugador: IsolatedMushroom | Partida: blitz | Estado: Éxito | Descargadas: 1998
+Jugador: IsolatedMushroom | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: IsolatedMushroom | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Aichyy | Partida: blitz | Estado: Éxito | Descargadas: 1379
+Jugador: Aichyy | Partida: rapid | Estado: Éxito | Descargadas: 129
+Jugador: Aichyy | Partida: classical | Estado: Éxito | Descargadas: 8
+Jugador: Epoch11 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Epoch11 | Partida: blitz | Estado: Éxito | Descargadas: 591
+Jugador: Epoch11 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Epoch11 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: FeegLood | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: FeegLood | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: FeegLood | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: FeegLood | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: dr_XXL | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tuzakli_Egitim | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Tuzakli_Egitim | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Tuzakli_Egitim | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Tuzakli_Egitim | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: ixci | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: ixci | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: ixci | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ixci | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: okriak | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: okriak | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: okriak | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: okriak | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: d-pawn | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: rfelgaer | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: d-pawn | Partida: blitz | Estado: Éxito | Descargadas: 1997
+Jugador: d-pawn | Partida: rapid | Estado: Éxito | Descargadas: 1155
+Jugador: d-pawn | Partida: classical | Estado: Éxito | Descargadas: 14
+Jugador: rfelgaer | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: rfelgaer | Partida: rapid | Estado: Éxito | Descargadas: 12
+Jugador: rfelgaer | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tractor19702025 | Partida: bullet | Estado: Éxito | Descargadas: 64
+Jugador: Tractor19702025 | Partida: blitz | Estado: Éxito | Descargadas: 132
+Jugador: Tractor19702025 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Tractor19702025 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Suleyman_Chess06 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: SavvaVetokhin2009 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Suleyman_Chess06 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Suleyman_Chess06 | Partida: rapid | Estado: Éxito | Descargadas: 414
+Jugador: Suleyman_Chess06 | Partida: classical | Estado: Éxito | Descargadas: 35
+Jugador: SavvaVetokhin2009 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: SavvaVetokhin2009 | Partida: rapid | Estado: Éxito | Descargadas: 415
+Jugador: SavvaVetokhin2009 | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: Arjun2002 | Partida: bullet | Estado: Éxito | Descargadas: 655
+Jugador: Jossbros | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Arjun2002 | Partida: blitz | Estado: Éxito | Descargadas: 521
+Jugador: Arjun2002 | Partida: rapid | Estado: Éxito | Descargadas: 3
+Jugador: Arjun2002 | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: Train_account | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Train_account | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Train_account | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Train_account | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: teem1 | Partida: bullet | Estado: Éxito | Descargadas: 692
+Jugador: teem1 | Partida: blitz | Estado: Éxito | Descargadas: 388
+Jugador: teem1 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: teem1 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: TBold3 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: TBold3 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: TBold3 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: TBold3 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Secret_Spion | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Secret_Spion | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Secret_Spion | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Secret_Spion | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ChessLab_Online | Partida: bullet | Estado: Éxito | Descargadas: 74
+Jugador: Jossbros | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: ChessLab_Online | Partida: blitz | Estado: Éxito | Descargadas: 191
+Jugador: ChessLab_Online | Partida: rapid | Estado: Éxito | Descargadas: 45
+Jugador: ChessLab_Online | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: evg85 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: evg85 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: evg85 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: evg85 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: horsebishop123 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: horsebishop123 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: horsebishop123 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: horsebishop123 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: kingofspeedd | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: kingofspeedd | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: kingofspeedd | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: kingofspeedd | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Schachmachine | Partida: bullet | Estado: Éxito | Descargadas: 523
+Jugador: Jossbros | Partida: rapid | Estado: Éxito | Descargadas: 1060
+Jugador: Jossbros | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: buldym | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: buldym | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: buldym | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: buldym | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ilqar_7474 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: ilqar_7474 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: ilqar_7474 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: ilqar_7474 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Schachmachine | Partida: blitz | Estado: Éxito | Descargadas: 400
+Jugador: Schachmachine | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Schachmachine | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Chewbacca18 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Chewbacca18 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Chewbacca18 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Chewbacca18 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: FishhingForFish | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: FishhingForFish | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: FishhingForFish | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: FishhingForFish | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Henryletennisman26 | Partida: bullet | Estado: Éxito | Descargadas: 957
+Jugador: Henryletennisman26 | Partida: blitz | Estado: Éxito | Descargadas: 642
+Jugador: Henryletennisman26 | Partida: rapid | Estado: Éxito | Descargadas: 202
+Jugador: Henryletennisman26 | Partida: classical | Estado: Éxito | Descargadas: 36
+Jugador: Roman2001 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Roman2001 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Roman2001 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Roman2001 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Alexandr_KhleBovich | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: ppom12 | Partida: bullet | Estado: Éxito | Descargadas: 523
+Jugador: Alexandr_KhleBovich | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Alexandr_KhleBovich | Partida: rapid | Estado: Éxito | Descargadas: 94
+Jugador: ppom12 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Alexandr_KhleBovich | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: ppom12 | Partida: rapid | Estado: Éxito | Descargadas: 115
+Jugador: ppom12 | Partida: classical | Estado: Éxito | Descargadas: 6
+Jugador: Yarebore | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: TheMagnet | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: TheMagnet | Partida: blitz | Estado: Éxito | Descargadas: 244
+Jugador: TheMagnet | Partida: rapid | Estado: Éxito | Descargadas: 302
+Jugador: TheMagnet | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Proward05 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Proward05 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Proward05 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Proward05 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: brawlball | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: brawlball | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: brawlball | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: brawlball | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Yarebore | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Yarebore | Partida: rapid | Estado: Éxito | Descargadas: 41
+Jugador: Yarebore | Partida: classical | Estado: Éxito | Descargadas: 3
+Jugador: NeverEnough | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: NeverEnough | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: NeverEnough | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: NeverEnough | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BrightFalcon | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: BrightFalcon | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: BrightFalcon | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BrightFalcon | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: paniculata | Partida: bullet | Estado: Éxito | Descargadas: 421
+Jugador: Andrey11976 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: paniculata | Partida: blitz | Estado: Éxito | Descargadas: 286
+Jugador: paniculata | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: paniculata | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: MikeGScarn | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: MikeGScarn | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: MikeGScarn | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: MikeGScarn | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: abrakadabra02 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: abrakadabra02 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: abrakadabra02 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: abrakadabra02 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Lukianoo | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Lukianoo | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Lukianoo | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Lukianoo | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: TigerSiberian | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: TigerSiberian | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: TigerSiberian | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: TigerSiberian | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Iron_Man1703 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Iron_Man1703 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Iron_Man1703 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Iron_Man1703 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: InvisibleGuest2023 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: InvisibleGuest2023 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: InvisibleGuest2023 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: InvisibleGuest2023 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Juan_Delasala | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Juan_Delasala | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Juan_Delasala | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Juan_Delasala | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Andrey11976 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: raf1310 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Andrey11976 | Partida: rapid | Estado: Éxito | Descargadas: 1329
+Jugador: Andrey11976 | Partida: classical | Estado: Éxito | Descargadas: 16
+Jugador: raf1310 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: raf1310 | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: raf1310 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Cann_Karo | Partida: bullet | Estado: Éxito | Descargadas: 510
+Jugador: FrozenWords | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: FrozenWords | Partida: blitz | Estado: Éxito | Descargadas: 204
+Jugador: FrozenWords | Partida: rapid | Estado: Éxito | Descargadas: 37
+Jugador: FrozenWords | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LavishChess | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: LavishChess | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: LavishChess | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: LavishChess | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tharvin2010 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Tharvin2010 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Tharvin2010 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Tharvin2010 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: CHESS_Toxik | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: CHESS_Toxik | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: CHESS_Toxik | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: CHESS_Toxik | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Cann_Karo | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Cann_Karo | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: Cann_Karo | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Elda64 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Elda64 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Elda64 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Elda64 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Ignathor | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Ignathor | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Ignathor | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Ignathor | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: June31 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: June31 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: June31 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: June31 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Biriyani | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Biriyani | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Biriyani | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Biriyani | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: justantan | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: justantan | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: justantan | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: justantan | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: delta_horsey | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: delta_horsey | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: delta_horsey | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: delta_horsey | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kinryln | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Kinryln | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Kinryln | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kinryln | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: sabke | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Batko2003 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: sabke | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: sabke | Partida: rapid | Estado: Éxito | Descargadas: 231
+Jugador: sabke | Partida: classical | Estado: Éxito | Descargadas: 185
+Jugador: I_WANT_MORE | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: I_WANT_MORE | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: I_WANT_MORE | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: I_WANT_MORE | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: einstein_79 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: einstein_79 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: einstein_79 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: einstein_79 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AlexChessChamp | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: AlexChessChamp | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: AlexChessChamp | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: AlexChessChamp | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: AntiberserkM | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: AntiberserkM | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: AntiberserkM | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: AntiberserkM | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Batko2003 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Batko2003 | Partida: rapid | Estado: Éxito | Descargadas: 121
+Jugador: Batko2003 | Partida: classical | Estado: Éxito | Descargadas: 12
+Jugador: QuarterPawn | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: QuarterPawn | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: QuarterPawn | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BlindMonster | Partida: bullet | Estado: Éxito | Descargadas: 1555
+Jugador: QuarterPawn | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Sergeiaza | Partida: bullet | Estado: Éxito | Descargadas: 321
+Jugador: BlindMonster | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Sergeiaza | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Sergeiaza | Partida: rapid | Estado: Éxito | Descargadas: 49
+Jugador: Sergeiaza | Partida: classical | Estado: Éxito | Descargadas: 25
+Jugador: BackToJune | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: BackToJune | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: BackToJune | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: BackToJune | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Heisenberg01 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Heisenberg01 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Heisenberg01 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Heisenberg01 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Hanskai | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Hanskai | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Hanskai | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Hanskai | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Coach13 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Coach13 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Coach13 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: BlindMonster | Partida: rapid | Estado: Éxito | Descargadas: 785
+Jugador: Coach13 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BlindMonster | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Ciderdrinker | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: ChessGenius-Alphazeo | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Ciderdrinker | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Ciderdrinker | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: ChessGenius-Alphazeo | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Ciderdrinker | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: ChessGenius-Alphazeo | Partida: rapid | Estado: Éxito | Descargadas: 59
+Jugador: ChessGenius-Alphazeo | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: h5h6h7 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: h5h6h7 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: h5h6h7 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: h5h6h7 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Jamorris94 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Matinghffarifar | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Matinghffarifar | Partida: blitz | Estado: Éxito | Descargadas: 1558
+Jugador: Matinghffarifar | Partida: rapid | Estado: Éxito | Descargadas: 109
+Jugador: Matinghffarifar | Partida: classical | Estado: Éxito | Descargadas: 10
+Jugador: Jamorris94 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Jamorris94 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: Jamorris94 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AtalikS | Partida: bullet | Estado: Éxito | Descargadas: 1191
+Jugador: BENED7707 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: AtalikS | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: BENED7707 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: AtalikS | Partida: rapid | Estado: Éxito | Descargadas: 1047
+Jugador: AtalikS | Partida: classical | Estado: Éxito | Descargadas: 18
+Jugador: rehbwf | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: rehbwf | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: rehbwf | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: rehbwf | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: The_Supreme_Judge | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: BENED7707 | Partida: rapid | Estado: Éxito | Descargadas: 285
+Jugador: The_Supreme_Judge | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: The_Supreme_Judge | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: The_Supreme_Judge | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: BENED7707 | Partida: classical | Estado: Éxito | Descargadas: 23
+Jugador: StochasticVolatility | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: StochasticVolatility | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: StochasticVolatility | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: StochasticVolatility | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: tramvay | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: tramvay | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: tramvay | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: tramvay | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: FianuioAspas12 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: FianuioAspas12 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: FianuioAspas12 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: FianuioAspas12 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: powerking96 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: powerking96 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: powerking96 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: powerking96 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: LObbyist6 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: LObbyist6 | Partida: blitz | Estado: Éxito | Descargadas: 2
+Jugador: Azzir | Partida: bullet | Estado: Éxito | Descargadas: 94
+Jugador: LObbyist6 | Partida: rapid | Estado: Éxito | Descargadas: 59
+Jugador: LObbyist6 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: AliAyman127 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: AliAyman127 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: AliAyman127 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: AliAyman127 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Frankeinsteinzombie | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: adhamyas | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: adhamyas | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Azzir | Partida: blitz | Estado: Éxito | Descargadas: 231
+Jugador: adhamyas | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: adhamyas | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: b31b6Consultant | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: b31b6Consultant | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: b31b6Consultant | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: b31b6Consultant | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Azzir | Partida: rapid | Estado: Éxito | Descargadas: 1
+Jugador: Azzir | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: IVK88 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: IVK88 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: IVK88 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: IVK88 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: chessmem | Partida: bullet | Estado: Éxito | Descargadas: 726
+Jugador: Bamboccione | Partida: bullet | Estado: Éxito | Descargadas: 1403
+Jugador: Bamboccione | Partida: blitz | Estado: Éxito | Descargadas: 951
+Jugador: Bamboccione | Partida: rapid | Estado: Éxito | Descargadas: 6
+Jugador: Bamboccione | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: cjota95 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: cjota95 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: cjota95 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: cjota95 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: chessmem | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: chessmem | Partida: rapid | Estado: Éxito | Descargadas: 633
+Jugador: chessmem | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Mikevs | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Mikevs | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Mikevs | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Mikevs | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Jai_Gurudev | Partida: bullet | Estado: Éxito | Descargadas: 186
+Jugador: NINDJAxx8 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Jai_Gurudev | Partida: blitz | Estado: Éxito | Descargadas: 1533
+Jugador: Jai_Gurudev | Partida: rapid | Estado: Éxito | Descargadas: 214
+Jugador: Jai_Gurudev | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: LeRusher | Partida: bullet | Estado: Éxito | Descargadas: 243
+Jugador: LeRusher | Partida: blitz | Estado: Éxito | Descargadas: 94
+Jugador: LeRusher | Partida: rapid | Estado: Éxito | Descargadas: 329
+Jugador: LeRusher | Partida: classical | Estado: Éxito | Descargadas: 191
+Jugador: the-chess-uni | Partida: bullet | Estado: Éxito | Descargadas: 168
+Jugador: the-chess-uni | Partida: blitz | Estado: Éxito | Descargadas: 9
+Jugador: the-chess-uni | Partida: rapid | Estado: Éxito | Descargadas: 15
+Jugador: the-chess-uni | Partida: classical | Estado: Éxito | Descargadas: 64
+Jugador: pouyaaa | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: pouyaaa | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: pouyaaa | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: pouyaaa | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: komodo54 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: jessehf | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: komodo54 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: jessehf | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: komodo54 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: komodo54 | Partida: classical | Estado: Éxito | Descargadas: 15
+Jugador: chessmount | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: chessmount | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: chessmount | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: chessmount | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: albowiem | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: albowiem | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: albowiem | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: albowiem | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: jessehf | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: jessehf | Partida: classical | Estado: Éxito | Descargadas: 488
+Jugador: Atomrod | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Thorwald5 | Partida: bullet | Estado: Éxito | Descargadas: 1309
+Jugador: Atomrod | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Atomrod | Partida: rapid | Estado: Éxito | Descargadas: 656
+Jugador: Atomrod | Partida: classical | Estado: Éxito | Descargadas: 42
+Jugador: Thorwald5 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Thorwald5 | Partida: rapid | Estado: Éxito | Descargadas: 1087
+Jugador: Monarch2023 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Thorwald5 | Partida: classical | Estado: Éxito | Descargadas: 851
+Jugador: Vlad_Lazarev79 | Partida: bullet | Estado: Éxito | Descargadas: 739
+Jugador: Vlad_Lazarev79 | Partida: blitz | Estado: Éxito | Descargadas: 896
+Jugador: Monarch2023 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Vlad_Lazarev79 | Partida: rapid | Estado: Éxito | Descargadas: 128
+Jugador: Vlad_Lazarev79 | Partida: classical | Estado: Éxito | Descargadas: 661
+Jugador: tanu14 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: tanu14 | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Monarch2023 | Partida: rapid | Estado: Éxito | Descargadas: 807
+Jugador: Monarch2023 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: tanu14 | Partida: rapid | Estado: Éxito | Descargadas: 20
+Jugador: Kradstalmund | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Kradstalmund | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: Kradstalmund | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kradstalmund | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Estonicca | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Estonicca | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Estonicca | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Estonicca | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Herobrine_Undefeated | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Herobrine_Undefeated | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Herobrine_Undefeated | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Herobrine_Undefeated | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Arteler | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Arteler | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Arteler | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Arteler | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: bullishmoves | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: bullishmoves | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: bullishmoves | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: bullishmoves | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: tanu14 | Partida: classical | Estado: Éxito | Descargadas: 465
+Jugador: Unstoppable_Rob | Partida: bullet | Estado: Éxito | Descargadas: 270
+Jugador: SergeyNadeev | Partida: bullet | Estado: Éxito | Descargadas: 1058
+Jugador: SergeyNadeev | Partida: blitz | Estado: Éxito | Descargadas: 967
+Jugador: Unstoppable_Rob | Partida: blitz | Estado: Éxito | Descargadas: 1925
+Jugador: Unstoppable_Rob | Partida: rapid | Estado: Éxito | Descargadas: 190
+Jugador: SergeyNadeev | Partida: rapid | Estado: Éxito | Descargadas: 602
+Jugador: Unstoppable_Rob | Partida: classical | Estado: Éxito | Descargadas: 173
+Jugador: SergeyNadeev | Partida: classical | Estado: Éxito | Descargadas: 219
+Jugador: Sameh2023 | Partida: bullet | Estado: Éxito | Descargadas: 272
+Jugador: Tictoocchess | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Sameh2023 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Sameh2023 | Partida: rapid | Estado: Éxito | Descargadas: 427
+Jugador: Sameh2023 | Partida: classical | Estado: Éxito | Descargadas: 523
+Jugador: Tiamo_Firenze | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Tiamo_Firenze | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Tiamo_Firenze | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Tiamo_Firenze | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kurald_Galain | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Kurald_Galain | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Kurald_Galain | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kurald_Galain | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: OpeningScientist | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: OpeningScientist | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: OpeningScientist | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: OpeningScientist | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: autko46 | Partida: bullet | Estado: Éxito | Descargadas: 15
+Jugador: autko46 | Partida: blitz | Estado: Éxito | Descargadas: 6
+Jugador: autko46 | Partida: rapid | Estado: Éxito | Descargadas: 53
+Jugador: autko46 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Tictoocchess | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Tictoocchess | Partida: rapid | Estado: Éxito | Descargadas: 1182
+Jugador: Lion_King11 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Tictoocchess | Partida: classical | Estado: Éxito | Descargadas: 607
+Jugador: pal22 | Partida: bullet | Estado: Éxito | Descargadas: 1577
+Jugador: Lion_King11 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: pal22 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Lion_King11 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: Lion_King11 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: pal22 | Partida: rapid | Estado: Éxito | Descargadas: 935
+Jugador: pal22 | Partida: classical | Estado: Éxito | Descargadas: 266
+Jugador: sotirakis | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: DmitriyNagiev | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: sotirakis | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: DmitriyNagiev | Partida: blitz | Estado: Éxito | Descargadas: 1442
+Jugador: DmitriyNagiev | Partida: rapid | Estado: Éxito | Descargadas: 87
+Jugador: DmitriyNagiev | Partida: classical | Estado: Éxito | Descargadas: 55
+Jugador: kqchess14anirudhs | Partida: bullet | Estado: Éxito | Descargadas: 839
+Jugador: sotirakis | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: sotirakis | Partida: classical | Estado: Éxito | Descargadas: 26
+Jugador: A-X-L | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: A-X-L | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: A-X-L | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: A-X-L | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: lorenfer | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: lorenfer | Partida: blitz | Estado: Éxito | Descargadas: 608
+Jugador: kqchess14anirudhs | Partida: blitz | Estado: Éxito | Descargadas: 1960
+Jugador: lorenfer | Partida: rapid | Estado: Éxito | Descargadas: 912
+Jugador: lorenfer | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: bosspotato | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: bosspotato | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: bosspotato | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: bosspotato | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: LittlePumpkin | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Svuezoz | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Svuezoz | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Svuezoz | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Svuezoz | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Aviamotornaya | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Aviamotornaya | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Aviamotornaya | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Aviamotornaya | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: KrsnArjun | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: KrsnArjun | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: KrsnArjun | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: KrsnArjun | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: edziomobil | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: andreu666 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: andreu666 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: andreu666 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: andreu666 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: happykid0000 | Partida: bullet | Estado: Éxito | Descargadas: 122
+Jugador: kqchess14anirudhs | Partida: rapid | Estado: Éxito | Descargadas: 1456
+Jugador: happykid0000 | Partida: blitz | Estado: Éxito | Descargadas: 978
+Jugador: kqchess14anirudhs | Partida: classical | Estado: Éxito | Descargadas: 1205
+Jugador: happykid0000 | Partida: rapid | Estado: Éxito | Descargadas: 1998
+Jugador: happykid0000 | Partida: classical | Estado: Éxito | Descargadas: 27
+Jugador: Smash_01 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Smash_01 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Smash_01 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Smash_01 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Hossein_MZ | Partida: bullet | Estado: Éxito | Descargadas: 709
+Jugador: gek76 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Hossein_MZ | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: gek76 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Hossein_MZ | Partida: rapid | Estado: Éxito | Descargadas: 638
+Jugador: Hossein_MZ | Partida: classical | Estado: Éxito | Descargadas: 15
+Jugador: zanycolourfulwindow | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: zanycolourfulwindow | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: zanycolourfulwindow | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: zanycolourfulwindow | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: WYshishabi | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: WYshishabi | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: WYshishabi | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: WYshishabi | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: gek76 | Partida: rapid | Estado: Éxito | Descargadas: 1741
+Jugador: gek76 | Partida: classical | Estado: Éxito | Descargadas: 988
+Jugador: HandKnit | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Art-Vega | Partida: bullet | Estado: Éxito | Descargadas: 118
+Jugador: HandKnit | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Art-Vega | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: HandKnit | Partida: rapid | Estado: Éxito | Descargadas: 384
+Jugador: HandKnit | Partida: classical | Estado: Éxito | Descargadas: 134
+Jugador: JesusChristConquers | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: JesusChristConquers | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: JesusChristConquers | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: JesusChristConquers | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: bobmarley1love | Partida: bullet | Estado: Éxito | Descargadas: 345
+Jugador: bobmarley1love | Partida: blitz | Estado: Éxito | Descargadas: 102
+Jugador: bobmarley1love | Partida: rapid | Estado: Éxito | Descargadas: 61
+Jugador: bobmarley1love | Partida: classical | Estado: Éxito | Descargadas: 12
+Jugador: bearhardy | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: bearhardy | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: bearhardy | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: bearhardy | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Kysylyn | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Kysylyn | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Kysylyn | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Kysylyn | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Art-Vega | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: a_boring_username | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Art-Vega | Partida: classical | Estado: Éxito | Descargadas: 2000
+Jugador: a_boring_username | Partida: blitz | Estado: Éxito | Descargadas: 1998
+Jugador: a_boring_username | Partida: rapid | Estado: Éxito | Descargadas: 344
+Jugador: a_boring_username | Partida: classical | Estado: Éxito | Descargadas: 13
+Jugador: JanHextall | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: Max05 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: JanHextall | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: JanHextall | Partida: rapid | Estado: Éxito | Descargadas: 117
+Jugador: JanHextall | Partida: classical | Estado: Éxito | Descargadas: 637
+Jugador: yoyo-liu | Partida: bullet | Estado: Éxito | Descargadas: 1
+Jugador: yoyo-liu | Partida: blitz | Estado: Éxito | Descargadas: 2
+Jugador: yoyo-liu | Partida: rapid | Estado: Éxito | Descargadas: 81
+Jugador: yoyo-liu | Partida: classical | Estado: Éxito | Descargadas: 80
+Jugador: Max05 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Max05 | Partida: rapid | Estado: Éxito | Descargadas: 1172
+Jugador: Max05 | Partida: classical | Estado: Éxito | Descargadas: 6
+Jugador: Anonimous-1981 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Anonimous-1981 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Anonimous-1981 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Anonimous-1981 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: Debagg | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Debagg | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Debagg | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Debagg | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Aleph_Vox | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: yuuki-asuna | Partida: bullet | Estado: Éxito | Descargadas: 1968
+Jugador: Aleph_Vox | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Aleph_Vox | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Aleph_Vox | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: CoachCai | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: CoachCai | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: CoachCai | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: CoachCai | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: PathtoVictory3000 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: PathtoVictory3000 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: PathtoVictory3000 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: PathtoVictory3000 | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: yuuki-asuna | Partida: blitz | Estado: Éxito | Descargadas: 914
+Jugador: yuuki-asuna | Partida: rapid | Estado: Éxito | Descargadas: 158
+Jugador: yuuki-asuna | Partida: classical | Estado: Éxito | Descargadas: 57
+Jugador: Fingolfin69 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: Victorterror1 | Partida: bullet | Estado: Éxito | Descargadas: 1999
+Jugador: Fingolfin69 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: Victorterror1 | Partida: blitz | Estado: Éxito | Descargadas: 1999
+Jugador: Fingolfin69 | Partida: rapid | Estado: Éxito | Descargadas: 916
+Jugador: Fingolfin69 | Partida: classical | Estado: Éxito | Descargadas: 504
+Jugador: Victorterror1 | Partida: rapid | Estado: Éxito | Descargadas: 679
+Jugador: Victorterror1 | Partida: classical | Estado: Éxito | Descargadas: 24
+Jugador: andy2342 | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: andy2342 | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: andy2342 | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: andy2342 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: Weerasekara | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: Weerasekara | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: Weerasekara | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: Weerasekara | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: maksattamsat | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: maksattamsat | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: maksattamsat | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: maksattamsat | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: shidfar2007 | Partida: bullet | Estado: Éxito | Descargadas: 1637
+Jugador: Bauernschach24 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: shidfar2007 | Partida: blitz | Estado: Éxito | Descargadas: 945
+Jugador: Bauernschach24 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: shidfar2007 | Partida: rapid | Estado: Éxito | Descargadas: 1235
+Jugador: shidfar2007 | Partida: classical | Estado: Éxito | Descargadas: 8
+Jugador: catanalyst | Partida: bullet | Estado: Saltado | Archivo ya existe
+Jugador: catanalyst | Partida: blitz | Estado: Saltado | Archivo ya existe
+Jugador: catanalyst | Partida: rapid | Estado: Saltado | Archivo ya existe
+Jugador: catanalyst | Partida: classical | Estado: Saltado | Archivo ya existe
+Jugador: mystisking | Partida: bullet | Estado: Éxito | Descargadas: 1505
+Jugador: Bauernschach24 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: mystisking | Partida: blitz | Estado: Éxito | Descargadas: 1006
+Jugador: Bauernschach24 | Partida: classical | Estado: Éxito | Descargadas: 828
+Jugador: mystisking | Partida: rapid | Estado: Éxito | Descargadas: 1778
+Jugador: mystisking | Partida: classical | Estado: Éxito | Descargadas: 65
+Jugador: PREDATOR624 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: NedamReddam | Partida: bullet | Estado: Éxito | Descargadas: 1687
+Jugador: PREDATOR624 | Partida: blitz | Estado: Éxito | Descargadas: 1993
+Jugador: sheep1965 | Partida: bullet | Estado: Éxito | Descargadas: 289
+Jugador: haunting_games | Partida: bullet | Estado: Éxito | Descargadas: 650
+Jugador: sheep1965 | Partida: blitz | Estado: Éxito | Descargadas: 1200
+Jugador: sheep1965 | Partida: rapid | Estado: Éxito | Descargadas: 77
+Jugador: sheep1965 | Partida: classical | Estado: Éxito | Descargadas: 73
+Jugador: haunting_games | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: asacopaco | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: haunting_games | Partida: rapid | Estado: Éxito | Descargadas: 336
+Jugador: haunting_games | Partida: classical | Estado: Éxito | Descargadas: 24
+Jugador: newaccwhothis | Partida: bullet | Estado: Éxito | Descargadas: 1360
+Jugador: asacopaco | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: asacopaco | Partida: rapid | Estado: Éxito | Descargadas: 644
+Jugador: newaccwhothis | Partida: blitz | Estado: Éxito | Descargadas: 1376
+Jugador: asacopaco | Partida: classical | Estado: Éxito | Descargadas: 331
+Jugador: henryshen2024 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: henryshen2024 | Partida: blitz | Estado: Vacío | No hay partidas
+Jugador: henryshen2024 | Partida: rapid | Estado: Éxito | Descargadas: 20
+Jugador: henryshen2024 | Partida: classical | Estado: Éxito | Descargadas: 49
+Jugador: newaccwhothis | Partida: rapid | Estado: Éxito | Descargadas: 477
+Jugador: newaccwhothis | Partida: classical | Estado: Éxito | Descargadas: 4
+Jugador: gmshloky | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: gmshloky | Partida: blitz | Estado: Éxito | Descargadas: 1
+Jugador: gmshloky | Partida: rapid | Estado: Éxito | Descargadas: 3
+Jugador: gmshloky | Partida: classical | Estado: Éxito | Descargadas: 265
+Jugador: bishop1984 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: nmiq | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: bishop1984 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: bishop1984 | Partida: rapid | Estado: Éxito | Descargadas: 403
+Jugador: bishop1984 | Partida: classical | Estado: Éxito | Descargadas: 38
+Jugador: nmiq | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: platinumcrown | Partida: bullet | Estado: Éxito | Descargadas: 392
+Jugador: nmiq | Partida: rapid | Estado: Éxito | Descargadas: 650
+Jugador: nmiq | Partida: classical | Estado: Éxito | Descargadas: 174
+Jugador: re-born | Partida: bullet | Estado: Éxito | Descargadas: 11
+Jugador: platinumcrown | Partida: blitz | Estado: Éxito | Descargadas: 829
+Jugador: platinumcrown | Partida: rapid | Estado: Éxito | Descargadas: 12
+Jugador: re-born | Partida: blitz | Estado: Éxito | Descargadas: 242
+Jugador: platinumcrown | Partida: classical | Estado: Éxito | Descargadas: 111
+Jugador: re-born | Partida: rapid | Estado: Éxito | Descargadas: 115
+Jugador: re-born | Partida: classical | Estado: Éxito | Descargadas: 507
+Jugador: idvan | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: nimzo5 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: nimzo5 | Partida: blitz | Estado: Éxito | Descargadas: 282
+Jugador: nimzo5 | Partida: rapid | Estado: Éxito | Descargadas: 12
+Jugador: nimzo5 | Partida: classical | Estado: Éxito | Descargadas: 71
+Jugador: idvan | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: idvan | Partida: rapid | Estado: Éxito | Descargadas: 617
+Jugador: idvan | Partida: classical | Estado: Éxito | Descargadas: 219
+Jugador: pyama_ninja | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: avslugin80 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: pyama_ninja | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: pyama_ninja | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: pyama_ninja | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: avslugin80 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: aotxleviackerman | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: aotxleviackerman | Partida: blitz | Estado: Éxito | Descargadas: 681
+Jugador: aotxleviackerman | Partida: rapid | Estado: Éxito | Descargadas: 247
+Jugador: aotxleviackerman | Partida: classical | Estado: Éxito | Descargadas: 173
+Jugador: avslugin80 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: chesstrial2013 | Partida: bullet | Estado: Éxito | Descargadas: 954
+Jugador: chesstrial2013 | Partida: blitz | Estado: Éxito | Descargadas: 309
+Jugador: chesstrial2013 | Partida: rapid | Estado: Éxito | Descargadas: 332
+Jugador: chesstrial2013 | Partida: classical | Estado: Éxito | Descargadas: 237
+Jugador: silkthewanderer | Partida: bullet | Estado: Éxito | Descargadas: 383
+Jugador: avslugin80 | Partida: classical | Estado: Éxito | Descargadas: 1851
+Jugador: silkthewanderer | Partida: blitz | Estado: Éxito | Descargadas: 918
+Jugador: silkthewanderer | Partida: rapid | Estado: Éxito | Descargadas: 428
+Jugador: simchev | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: silkthewanderer | Partida: classical | Estado: Éxito | Descargadas: 670
+Jugador: mintrefreshments | Partida: bullet | Estado: Éxito | Descargadas: 1280
+Jugador: mintrefreshments | Partida: blitz | Estado: Éxito | Descargadas: 145
+Jugador: mintrefreshments | Partida: rapid | Estado: Éxito | Descargadas: 114
+Jugador: mintrefreshments | Partida: classical | Estado: Éxito | Descargadas: 122
+Jugador: simchev | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: yspchess | Partida: bullet | Estado: Éxito | Descargadas: 186
+Jugador: simchev | Partida: rapid | Estado: Éxito | Descargadas: 395
+Jugador: simchev | Partida: classical | Estado: Éxito | Descargadas: 387
+Jugador: yspchess | Partida: blitz | Estado: Éxito | Descargadas: 800
+Jugador: yspchess | Partida: rapid | Estado: Éxito | Descargadas: 578
+Jugador: yspchess | Partida: classical | Estado: Éxito | Descargadas: 348
+Jugador: crichero2024 | Partida: bullet | Estado: Vacío | No hay partidas
+Jugador: crichero2024 | Partida: blitz | Estado: Éxito | Descargadas: 583
+Jugador: rubinsteinsmonster | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: crichero2024 | Partida: rapid | Estado: Éxito | Descargadas: 546
+Jugador: crichero2024 | Partida: classical | Estado: Éxito | Descargadas: 3
+Jugador: qucani | Partida: bullet | Estado: Éxito | Descargadas: 253
+Jugador: rubinsteinsmonster | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: qucani | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: qucani | Partida: rapid | Estado: Éxito | Descargadas: 828
+Jugador: qucani | Partida: classical | Estado: Éxito | Descargadas: 53
+Jugador: rubinsteinsmonster | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: rubinsteinsmonster | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: white_robot | Partida: bullet | Estado: Éxito | Descargadas: 336
+Jugador: white_robot | Partida: blitz | Estado: Éxito | Descargadas: 260
+Jugador: white_robot | Partida: rapid | Estado: Éxito | Descargadas: 29
+Jugador: white_robot | Partida: classical | Estado: Éxito | Descargadas: 49
+Jugador: whenrooksfly | Partida: bullet | Estado: Éxito | Descargadas: 61
+Jugador: whenrooksfly | Partida: blitz | Estado: Éxito | Descargadas: 202
+Jugador: whenrooksfly | Partida: rapid | Estado: Éxito | Descargadas: 45
+Jugador: whenrooksfly | Partida: classical | Estado: Éxito | Descargadas: 56
+Jugador: prettyfishy | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: grrrrrrr_r | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: prettyfishy | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: prettyfishy | Partida: rapid | Estado: Éxito | Descargadas: 832
+Jugador: prettyfishy | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: grrrrrrr_r | Partida: blitz | Estado: Éxito | Descargadas: 1330
+Jugador: grrrrrrr_r | Partida: rapid | Estado: Éxito | Descargadas: 345
+Jugador: grrrrrrr_r | Partida: classical | Estado: Éxito | Descargadas: 1145
+Jugador: extermo44 | Partida: bullet | Estado: Éxito | Descargadas: 3
+Jugador: padurean_daniel | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: extermo44 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: padurean_daniel | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: padurean_daniel | Partida: rapid | Estado: Éxito | Descargadas: 442
+Jugador: padurean_daniel | Partida: classical | Estado: Éxito | Descargadas: 1067
+Jugador: avcs | Partida: bullet | Estado: Éxito | Descargadas: 68
+Jugador: extermo44 | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: extermo44 | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: victory_biber | Partida: bullet | Estado: Éxito | Descargadas: 57
+Jugador: victory_biber | Partida: blitz | Estado: Éxito | Descargadas: 210
+Jugador: avcs | Partida: blitz | Estado: Éxito | Descargadas: 605
+Jugador: victory_biber | Partida: rapid | Estado: Éxito | Descargadas: 46
+Jugador: avcs | Partida: rapid | Estado: Éxito | Descargadas: 191
+Jugador: avcs | Partida: classical | Estado: Éxito | Descargadas: 488
+Jugador: victory_biber | Partida: classical | Estado: Éxito | Descargadas: 921
+Jugador: qcfxi_dizsdicx | Partida: bullet | Estado: Éxito | Descargadas: 5
+Jugador: qcfxi_dizsdicx | Partida: blitz | Estado: Éxito | Descargadas: 36
+Jugador: qcfxi_dizsdicx | Partida: rapid | Estado: Éxito | Descargadas: 798
+Jugador: qcfxi_dizsdicx | Partida: classical | Estado: Éxito | Descargadas: 1
+Jugador: killer311 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: sobino106 | Partida: bullet | Estado: Éxito | Descargadas: 1115
+Jugador: killer311 | Partida: blitz | Estado: Éxito | Descargadas: 1453
+Jugador: sobino106 | Partida: blitz | Estado: Éxito | Descargadas: 1066
+Jugador: killer311 | Partida: rapid | Estado: Éxito | Descargadas: 3
+Jugador: sobino106 | Partida: rapid | Estado: Éxito | Descargadas: 5
+Jugador: killer311 | Partida: classical | Estado: Éxito | Descargadas: 2
+Jugador: sobino106 | Partida: classical | Estado: Vacío | No hay partidas
+Jugador: lokiy47 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: artistendo | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: lokiy47 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: artistendo | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: lokiy47 | Partida: rapid | Estado: Éxito | Descargadas: 226
+Jugador: lokiy47 | Partida: classical | Estado: Éxito | Descargadas: 82
+Jugador: ema_roma87 | Partida: bullet | Estado: Éxito | Descargadas: 250
+Jugador: ema_roma87 | Partida: blitz | Estado: Éxito | Descargadas: 239
+Jugador: ema_roma87 | Partida: rapid | Estado: Éxito | Descargadas: 112
+Jugador: ema_roma87 | Partida: classical | Estado: Éxito | Descargadas: 495
+Jugador: artistendo | Partida: rapid | Estado: Éxito | Descargadas: 2000
+Jugador: artistendo | Partida: classical | Estado: Éxito | Descargadas: 1238
+Jugador: aleatorio00 | Partida: bullet | Estado: Éxito | Descargadas: 2000
+Jugador: felicity187 | Partida: bullet | Estado: Éxito | Descargadas: 747
+Jugador: felicity187 | Partida: blitz | Estado: Éxito | Descargadas: 243
+Jugador: aleatorio00 | Partida: blitz | Estado: Éxito | Descargadas: 725
+Jugador: felicity187 | Partida: rapid | Estado: Éxito | Descargadas: 65
+Jugador: felicity187 | Partida: classical | Estado: Éxito | Descargadas: 54
+Jugador: eldarmv | Partida: bullet | Estado: Éxito | Descargadas: 24
+Jugador: aleatorio00 | Partida: rapid | Estado: Éxito | Descargadas: 236
+Jugador: eldarmv | Partida: blitz | Estado: Éxito | Descargadas: 362
+Jugador: eldarmv | Partida: rapid | Estado: Éxito | Descargadas: 61
+Jugador: eldarmv | Partida: classical | Estado: Éxito | Descargadas: 133
+Jugador: mrtactic2008 | Partida: bullet | Estado: Éxito | Descargadas: 111
+Jugador: aleatorio00 | Partida: classical | Estado: Éxito | Descargadas: 1603
+Jugador: mrtactic2008 | Partida: blitz | Estado: Éxito | Descargadas: 2000
+Jugador: mrtactic2008 | Partida: rapid | Estado: Vacío | No hay partidas
+Jugador: mrtactic2008 | Partida: classical | Estado: Vacío | No hay partidas
