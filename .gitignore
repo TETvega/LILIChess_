@@ -242,5 +242,6 @@ $RECYCLE.BIN/
 # npz files
 *.npz
 
+*.keras
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,windows,linux,python
