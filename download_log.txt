@@ -1,2 +1,0 @@
-Jugador: Samid2002 | Partida: bullet | Estado: Éxito | Descargadas: 2000
-Jugador: RE-BORN | Partida: bullet | Estado: Error | Límite de API alcanzado
